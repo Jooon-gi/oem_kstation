@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-overview/02-process-protocol/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-overview/02-process-protocol/","noteIcon":"","created":"2026-04-10T14:17:02.584+09:00","updated":"2026-04-10T16:34:44.469+09:00","dg-note-properties":{}}
 ---
 
 # 02. Process Protocol

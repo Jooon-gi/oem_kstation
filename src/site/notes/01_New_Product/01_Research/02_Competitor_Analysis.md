@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-new-product/01-research/02-competitor-analysis/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/01-new-product/01-research/02-competitor-analysis/","noteIcon":"","created":"2026-04-10T14:16:56.921+09:00","updated":"2026-04-10T16:28:34.343+09:00","dg-note-properties":{}}
 ---
 
 # Competitor Analysis — 경쟁 브랜드 소구점 분석

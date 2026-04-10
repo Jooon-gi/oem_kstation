@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-new-product/02-product-design/02-oem-qa/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/01-new-product/02-product-design/02-oem-qa/","noteIcon":"","created":"2026-04-10T12:47:35.442+09:00","updated":"2026-04-10T16:28:35.848+09:00","dg-note-properties":{}}
 ---
 
 # OEM QA Protocol

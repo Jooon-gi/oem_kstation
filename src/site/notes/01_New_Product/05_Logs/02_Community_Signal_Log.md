@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-new-product/05-logs/02-community-signal-log/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/01-new-product/05-logs/02-community-signal-log/","noteIcon":"","created":"2026-04-10T14:15:59.382+09:00","updated":"2026-04-10T16:28:42.656+09:00","dg-note-properties":{}}
 ---
 
 # Community Signal Log — 커뮤니티 신호 추적

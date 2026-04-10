@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-new-product/03-marketing/01-message-framing/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/01-new-product/03-marketing/01-message-framing/","noteIcon":"","created":"2026-04-10T14:13:22.550+09:00","updated":"2026-04-10T16:34:44.469+09:00","dg-note-properties":{}}
 ---
 
 # Messaging Framework — 브랜드 메시지 구조

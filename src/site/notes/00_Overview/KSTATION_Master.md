@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-overview/kstation-master/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-overview/kstation-master/","noteIcon":"","created":"2026-04-10T14:30:39.149+09:00","updated":"2026-04-10T16:34:44.468+09:00","dg-note-properties":{}}
 ---
 
 # KSTATION Manufacturing — Master Index

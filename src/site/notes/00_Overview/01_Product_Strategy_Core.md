@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-overview/01-product-strategy-core/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-overview/01-product-strategy-core/","tags":["gardenEntry"],"noteIcon":"","created":"2026-04-10T14:11:29.968+09:00","updated":"2026-04-10T16:28:52.065+09:00","dg-note-properties":{}}
 ---
 
 # 01. Product Strategy Core — 케이필<가제>

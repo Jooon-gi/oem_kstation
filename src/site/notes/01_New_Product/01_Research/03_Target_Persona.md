@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-new-product/01-research/03-target-persona/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/01-new-product/01-research/03-target-persona/","noteIcon":"","created":"2026-04-10T14:12:41.552+09:00","updated":"2026-04-10T16:28:34.815+09:00","dg-note-properties":{}}
 ---
 
 # Target Persona — 핵심 구매자 프로파일

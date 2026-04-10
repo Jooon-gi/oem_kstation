@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-new-product/04-operations/02-coa-checklist/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/01-new-product/04-operations/02-coa-checklist/","noteIcon":"","created":"2026-04-10T12:48:31.560+09:00","updated":"2026-04-10T16:34:44.470+09:00","dg-note-properties":{}}
 ---
 
 # COA Checklist — Lot별 검수 체크리스트

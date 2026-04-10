@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-new-product/03-marketing/03-launch-schedule/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/01-new-product/03-marketing/03-launch-schedule/","noteIcon":"","created":"2026-04-10T15:02:19.143+09:00","updated":"2026-04-10T16:34:44.469+09:00","dg-note-properties":{}}
 ---
 
 # Launch Sequence — 런칭 타임라인

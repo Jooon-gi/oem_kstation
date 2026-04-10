@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossary/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/glossary/","noteIcon":"","created":"2026-04-10T14:31:40.371+09:00","updated":"2026-04-10T16:28:43.043+09:00","dg-note-properties":{}}
 ---
 
 # 용어사전 — 케이필<가제> 프로젝트 용어 사전

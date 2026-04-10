@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-new-product/02-product-design/03-lineup-design/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/01-new-product/02-product-design/03-lineup-design/","noteIcon":"","created":"2026-04-10T14:12:07.237+09:00","updated":"2026-04-10T16:28:36.890+09:00","dg-note-properties":{}}
 ---
 
 # Lineup Design — 라인업 포지셔닝 설계

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-new-product/05-logs/01-decision-log/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/01-new-product/05-logs/01-decision-log/","noteIcon":"","created":"2026-04-10T14:32:21.655+09:00","updated":"2026-04-10T16:34:44.470+09:00","dg-note-properties":{}}
 ---
 
 # Decision Log — 의사결정 이력

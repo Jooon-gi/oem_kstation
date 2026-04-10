@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-overview/03-brand-naming/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00-overview/03-brand-naming/","noteIcon":"","created":"2026-04-10T15:48:43.274+09:00","updated":"2026-04-10T16:28:31.966+09:00","dg-note-properties":{}}
 ---
 
 # 03. Brand Naming — 브랜드명 선정

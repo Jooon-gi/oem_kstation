@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-new-product/04-operations/01-oem-vendor-log/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/01-new-product/04-operations/01-oem-vendor-log/","noteIcon":"","created":"2026-04-10T14:16:17.169+09:00","updated":"2026-04-10T16:28:41.071+09:00","dg-note-properties":{}}
 ---
 
 # OEM Vendor Log — 업체 컨택

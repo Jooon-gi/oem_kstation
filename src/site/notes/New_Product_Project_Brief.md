@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/new-product-project-brief/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/new-product-project-brief/","noteIcon":"","created":"2026-04-10T14:30:23.254+09:00","updated":"2026-04-10T16:34:44.468+09:00","dg-note-properties":{}}
 ---
 
 # 케이필<가제> — 제품 개발 프로젝트 브리프

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-new-product/02-product-design/01-spec-line-fill-based/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/01-new-product/02-product-design/01-spec-line-fill-based/","noteIcon":"","created":"2026-04-10T14:31:46.835+09:00","updated":"2026-04-10T16:28:35.193+09:00","dg-note-properties":{}}
 ---
 
 # Product Spec Sheet

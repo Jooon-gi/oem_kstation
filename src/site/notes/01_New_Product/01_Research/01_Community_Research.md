@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-new-product/01-research/01-community-research/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/01-new-product/01-research/01-community-research/","noteIcon":"","created":"2026-04-10T14:16:37.672+09:00","updated":"2026-04-10T16:28:33.468+09:00","dg-note-properties":{}}
 ---
 
 # Community Painpoints — 누적 관찰 기록

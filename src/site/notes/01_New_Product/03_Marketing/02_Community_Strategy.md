@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-new-product/03-marketing/02-community-strategy/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/01-new-product/03-marketing/02-community-strategy/","noteIcon":"","created":"2026-04-10T14:13:57.377+09:00","updated":"2026-04-10T16:28:39.921+09:00","dg-note-properties":{}}
 ---
 
 # Community Strategy
